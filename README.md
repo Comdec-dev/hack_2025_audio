@@ -1,2 +1,3 @@
 # hack_2025_audio
-mp3ファイルの公開用
+kintone hack 2025 
+3D宇宙アプリビュー アニメーションBGMファイルのURL共有用
